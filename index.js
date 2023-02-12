@@ -33,6 +33,7 @@ export function createRandomCar(){
     vin: faker.vehicle.vin(),
     color: faker.vehicle.color(),
     fueltype: faker.vehicle.fuel(),
+    price: faker.commerce.price(3000, 35000)
     
   };
 }
