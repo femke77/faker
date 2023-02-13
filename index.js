@@ -4,7 +4,7 @@ import { faker } from '@faker-js/faker';
 
 /* Note two examples of how to create fake data. Update the Array.from length to change the number
  of data objects. Update the variable names. Update the file name if desired. Copy the file to your
- seed folder. 
+ seed folder.  See the usage section of fakerjs.com to see all the fake data options.
 */
 
 const USERS = [];
