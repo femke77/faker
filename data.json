@@ -1,0 +1,182 @@
+[
+  {
+    "vehicle": "Maserati Challenger",
+    "year": 2000,
+    "vin": "JG13T7TJLEP423490",
+    "color": "pink",
+    "fueltype": "Diesel",
+    "price": "26021.00",
+    "type": "Convertible"
+  },
+  {
+    "vehicle": "Mercedes Benz CTS",
+    "year": 2012,
+    "vin": "GUGP1H1Y7DJM49746",
+    "color": "indigo",
+    "fueltype": "Diesel",
+    "price": "10071.00",
+    "type": "Minivan"
+  },
+  {
+    "vehicle": "Toyota Prius",
+    "year": 2008,
+    "vin": "VHA6GDN5S9B039051",
+    "color": "indigo",
+    "fueltype": "Hybrid",
+    "price": "27199.00",
+    "type": "Hatchback"
+  },
+  {
+    "vehicle": "Honda Expedition",
+    "year": 2014,
+    "vin": "SDN90A66UDMM11240",
+    "color": "cyan",
+    "fueltype": "Electric",
+    "price": "22179.00",
+    "type": "Minivan"
+  },
+  {
+    "vehicle": "Cadillac Model X",
+    "year": 2020,
+    "vin": "0ZCGGBGMSLFF23388",
+    "color": "yellow",
+    "fueltype": "Electric",
+    "price": "6392.00",
+    "type": "Coupe"
+  },
+  {
+    "vehicle": "Dodge Durango",
+    "year": 2015,
+    "vin": "N7DGUFP7K4NC73439",
+    "color": "salmon",
+    "fueltype": "Electric",
+    "price": "25064.00",
+    "type": "Cargo Van"
+  },
+  {
+    "vehicle": "Mazda XTS",
+    "year": 2009,
+    "vin": "JWNLPFD08SWF82709",
+    "color": "salmon",
+    "fueltype": "Electric",
+    "price": "6268.00",
+    "type": "Hatchback"
+  },
+  {
+    "vehicle": "Audi CTS",
+    "year": 2014,
+    "vin": "ZX238RSF94SV49467",
+    "color": "blue",
+    "fueltype": "Electric",
+    "price": "27617.00",
+    "type": "Passenger Van"
+  },
+  {
+    "vehicle": "Tesla Sentra",
+    "year": 2003,
+    "vin": "EWFCUAYHU5CR40739",
+    "color": "azure",
+    "fueltype": "Diesel",
+    "price": "22015.00",
+    "type": "Cargo Van"
+  },
+  {
+    "vehicle": "Ferrari Cruze",
+    "year": 2002,
+    "vin": "20XNRW9K53RG64376",
+    "color": "yellow",
+    "fueltype": "Gasoline",
+    "price": "33831.00",
+    "type": "Passenger Van"
+  },
+  {
+    "vehicle": "Honda Beetle",
+    "year": 2021,
+    "vin": "3BEJJDHPLBPZ55678",
+    "color": "mint green",
+    "fueltype": "Diesel",
+    "price": "25562.00",
+    "type": "Coupe"
+  },
+  {
+    "vehicle": "Rolls Royce Model T",
+    "year": 2006,
+    "vin": "ZL8Z8AET1NDE18959",
+    "color": "black",
+    "fueltype": "Electric",
+    "price": "29936.00",
+    "type": "SUV"
+  },
+  {
+    "vehicle": "Nissan Model X",
+    "year": 2021,
+    "vin": "7HTDDPL2YHNX55654",
+    "color": "cyan",
+    "fueltype": "Diesel",
+    "price": "7793.00",
+    "type": "Convertible"
+  },
+  {
+    "vehicle": "Bentley CTS",
+    "year": 2001,
+    "vin": "NF906BM3GVB997993",
+    "color": "lime",
+    "fueltype": "Gasoline",
+    "price": "10061.00",
+    "type": "Hatchback"
+  },
+  {
+    "vehicle": "Aston Martin Mercielago",
+    "year": 2012,
+    "vin": "RRUAR4MBL9DJ95557",
+    "color": "turquoise",
+    "fueltype": "Diesel",
+    "price": "33703.00",
+    "type": "Minivan"
+  },
+  {
+    "vehicle": "Ferrari Focus",
+    "year": 2005,
+    "vin": "RUP81GW0LVW836923",
+    "color": "silver",
+    "fueltype": "Gasoline",
+    "price": "6320.00",
+    "type": "Extended Cab Pickup"
+  },
+  {
+    "vehicle": "Toyota Model S",
+    "year": 2008,
+    "vin": "NE512F51UVYW19585",
+    "color": "ivory",
+    "fueltype": "Electric",
+    "price": "19547.00",
+    "type": "Cargo Van"
+  },
+  {
+    "vehicle": "Bugatti Land Cruiser",
+    "year": 2002,
+    "vin": "1LV80RZ0WKL321819",
+    "color": "purple",
+    "fueltype": "Gasoline",
+    "price": "14377.00",
+    "type": "Extended Cab Pickup"
+  },
+  {
+    "vehicle": "Jaguar LeBaron",
+    "year": 2014,
+    "vin": "5TNBKPVMG3Y294228",
+    "color": "silver",
+    "fueltype": "Diesel",
+    "price": "13370.00",
+    "type": "Passenger Van"
+  },
+  {
+    "vehicle": "Lamborghini F-150",
+    "year": 2006,
+    "vin": "H5H51T2D38R028077",
+    "color": "blue",
+    "fueltype": "Gasoline",
+    "price": "8927.00",
+    "type": "Extended Cab Pickup"
+  }
+]

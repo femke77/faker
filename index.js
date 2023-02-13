@@ -1,5 +1,6 @@
 import { faker } from '@faker-js/faker';
 // change to type module in the package.json to use import statements
+import fs from 'fs'
 
 
 const USERS = [];
@@ -24,6 +25,7 @@ Array.from({ length: 10 }).forEach(() => {
 console.log(USERS)
 
 
+
 const CARS = [];
 
 export function createRandomCar(){
@@ -45,3 +47,5 @@ Array.from({ length: 20 }).forEach(() => {
 
 
 console.log(CARS)
+
+fs.writeFileSync("data.json", JSON.stringify(CARS, null, 2))
